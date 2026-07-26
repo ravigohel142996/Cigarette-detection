@@ -234,5 +234,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Aditya**
-- GitHub: [@ADITYA-user18](https://github.com/ADITYA-user18)
+**Ravi Gohel**
+- GitHub: [@ravigohel142996](https://github.com/ravigohel142996)
