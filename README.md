@@ -100,6 +100,16 @@ Place the downloaded `best.pt` file in the root of the project directory before 
 - Output video saved as `.mp4`
 
 ---
+# Changelog
+
+## v1.1
+
+- Improved inference pipeline
+- Better detection filtering
+- Updated documentation
+- Added deployment instructions
+- Improved project structure
+---
 
 ## 📸 Detection Screenshots
 
