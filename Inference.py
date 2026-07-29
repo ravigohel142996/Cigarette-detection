@@ -46,6 +46,13 @@ C_ACCENT        = (0,   120, 255)       # Blue accent for HUD
 FONT            = cv2.FONT_HERSHEY_DUPLEX
 FONT_SM         = cv2.FONT_HERSHEY_SIMPLEX
 
+# Version
+VERSION = "v1.1.0"
+
+print("=" * 70)
+print(f" Smoking Detection System {VERSION}")
+print("=" * 70)
+
 # ─────────────────────────────────────────────
 #  HELPERS
 # ─────────────────────────────────────────────
