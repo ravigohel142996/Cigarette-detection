@@ -235,6 +235,15 @@ All parameters are adjustable in `Inference.py`:
 | Language | Python 3.x |
 
 ---
+## Future Improvements
+
+- Edge deployment with NVIDIA Jetson
+- MQTT Alert System
+- Web Dashboard
+- Email Notifications
+- REST API
+- Docker Deployment
+---
 
 ## 📄 License
 
