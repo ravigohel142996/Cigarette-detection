@@ -23,7 +23,13 @@ from ultralytics import YOLO
 # ─────────────────────────────────────────────
 #  CONFIG
 # ─────────────────────────────────────────────
-VIDEO_IN        = "input_video.mp4"
+# Supported formats:
+# mp4
+# avi
+# mov
+# mkv
+
+VIDEO_IN="input_video.mp4"
 VIDEO_OUT       = "output_detected.mp4"
 PERSON_MODEL    = "yolo11s.pt"          # Downloads COCO pretrained automatically
 CIGARETTE_MODEL = "best.pt"             # Custom trained model
