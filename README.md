@@ -244,7 +244,14 @@ All parameters are adjustable in `Inference.py`:
 - REST API
 - Docker Deployment
 ---
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 
+![YOLOv11](https://img.shields.io/badge/YOLO-v11-red)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
+
+![License](https://img.shields.io/badge/License-MIT-blue)
+---
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
