@@ -243,6 +243,7 @@ All parameters are adjustable in `Inference.py`:
 - REST API
 - Docker Deployment
 ---
+
 ## Tested On
 
 Windows 11
@@ -254,8 +255,10 @@ RTX GPU
 CPU Mode
 
 Ultralytics 8.3+
+
 ---
 ---
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 
 ![YOLOv11](https://img.shields.io/badge/YOLO-v11-red)
@@ -263,7 +266,9 @@ Ultralytics 8.3+
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
+
 ---
+
 ## Features
 
 ✔ Real-Time Detection
@@ -281,6 +286,7 @@ Ultralytics 8.3+
 ✔ High Quality Visualization
 
 ✔ Restricted Area Monitoring
+
 ---
 
 ## 📄 License
