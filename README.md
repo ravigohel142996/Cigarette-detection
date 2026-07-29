@@ -159,8 +159,7 @@ numpy>=1.24.0
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/ADITYA-user18/Cigarette-Violation-Detection-In-Restricted-Areas.git
-cd Cigarette-Violation-Detection-In-Restricted-Areas
+git clone https://github.com/ravigohel142996/Cigarette-Violation-Detection-In-Restricted-Areas.git
 ```
 
 ### Step 2 — Install dependencies
@@ -244,6 +243,19 @@ All parameters are adjustable in `Inference.py`:
 - REST API
 - Docker Deployment
 ---
+## Tested On
+
+Windows 11
+
+Python 3.11
+
+RTX GPU
+
+CPU Mode
+
+Ultralytics 8.3+
+---
+---
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 
 ![YOLOv11](https://img.shields.io/badge/YOLO-v11-red)
@@ -252,6 +264,25 @@ All parameters are adjustable in `Inference.py`:
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ---
+## Features
+
+✔ Real-Time Detection
+
+✔ ByteTrack
+
+✔ Custom YOLOv11
+
+✔ Multi-Person Tracking
+
+✔ Smart Association Logic
+
+✔ Live Statistics
+
+✔ High Quality Visualization
+
+✔ Restricted Area Monitoring
+---
+
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
